@@ -1,1 +1,1 @@
-# MIinimum
+# Minimum
